@@ -1,5 +1,5 @@
-name: REPLACEREPONAME
-title: FIXME Course Title
+name: edge-image-device-lifecycle
+title: Edge Image and Device Lifecycle
 version: 1
 nav:
 - modules/ROOT/nav.adoc
