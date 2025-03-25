@@ -1,6 +1,6 @@
 site:
-  title: FIXME Course Title
-  start_page: REPLACEREPONAME::index.adoc
+  title: Edge Image and Device Lifecycle
+  start_page: edge-image-device-lifecycle::index.adoc
 
 content:
   sources:
