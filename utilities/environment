@@ -1,0 +1,7 @@
+SITE_DIR=./build/site
+ANTORA_NAME=quickguide-builder
+ANTORA_IMAGE="docker.io/antora/antora"
+ANTORA_PLAYBOOK=antora-playbook.yml
+SERVE_NAME=quickguide-serve
+SERVE_IMAGE=registry.access.redhat.com/ubi9/httpd-24:1-301
+SERVE_PORT=8080

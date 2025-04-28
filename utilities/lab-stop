@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+source $(dirname $0)/environment
+
+echo "Stopping serve process..."
+podman kill ${SERVE_NAME}
+echo "Stopped serve process."
