@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+source $(dirname $0)/environment
+
+echo "Removing old site..."
+rm -rf ${SITE_DIR}/*
+echo "Old site removed"
